@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="./style.css">
 # 📐 微积分课程主页 (Calculus 2026)
 
 欢迎！本页面由吴凯维护，用于发布习题课讲义及课程通知。我的邮箱是2501110023@stu.pku.edu.cn
