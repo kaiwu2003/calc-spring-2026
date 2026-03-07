@@ -17,7 +17,7 @@
 </h1>
 
 <h3 align="center" style="text-align:center">
-<span style="font-family:华文中宋"><br> 某某大学 数学学院</span>
+<span style="font-family:华文中宋"><br> 北京大学 数学科学学院</span>
 </h3>
 
 <div class="MsoNormal" align="center" style="text-align:center">
@@ -45,11 +45,11 @@
 &nbsp;   欢迎大家修读高等数学(下)课程！本网站内容将根据教学进度实时更新。
 
 <p>
- &nbsp;   <b>02/25</b>  欢迎来到新学期的课程主页。
+ &nbsp;   <b>03/07</b>  欢迎来到新学期的课程主页。
 </p>
 
 <p>
- &nbsp;    <font color="red">重要</font>：请注意，每次习题课上需交上周作业。
+ &nbsp;    <font color="red">重要</font>：请注意，每次习题课上需交上周作业，电子版作业请发至助教邮箱。
 </p>
 
 
@@ -57,55 +57,41 @@
 <hr size="3" width="100%" align="center">
 </div>
 
-<h2>
-<a name="info"></a>
-&nbsp;<span style="font-family:黑体">课程信息</span>
-</h2>
+<div style="font-family:'新宋体',SimSun,serif; line-height: 1.6;">
+  <p><b>授课老师：</b> 刘建明。</p>
+  <p><b>上课时间：</b> 每周二 08:00 - 09:50、周五 10:10 - 12:00。</p>
 
-<p>  
-&nbsp;  <b><span style="font-family:新宋体"> 授课老师：</span></b>
-<span style="font-family:新宋体"> 待定 (Email@example.com)</span>。
-</p>
+  <p style="margin-bottom: 2px;"><b>助教：</b></p>
+  <ul style="list-style-type: none; padding-left: 20px; margin-top: 0;">
+    <li>4班：韩善禹 (hsy.1123@pku.edu.cn)</li>
+    <li>5班：张洋 (2401110036@stu.pku.edu.cn)</li>
+    <li>6班：吴凯 (2501110023@stu.pku.edu.cn)</li>
+  </ul>
 
-<p>  
-&nbsp;  <b><span style="font-family:新宋体"> 上课时间：</span></b>
-<span style="font-family:新宋体"> 每周二、周五 (根据排表安排)</span>。
-</p>
-
-<p>  
-&nbsp;  <b><span style="font-family:新宋体">  上课地点：</span></b>
-<span style="font-family:新宋体"> 待定</span>。
-</p>
- 
-<p>  
-&nbsp;  <b><span style="font-family:新宋体"> 习题班教室：</span></b>
-<span style="font-family:新宋体">  4班-三教406；5班-二教416；6班-三教404。
-</span></p>
- 
-<p>  
-&nbsp;  <b><span style="font-family:新宋体"> 习题课时间：</span></b>
-<span style="font-family:新宋体"> 每周二 10-11 节 </span>。
-</p>
- 
-<p>
-&nbsp;  <b><span style="font-family:新宋体">  教材： </span></b>
-<span style="font-family:新宋体">  李忠, 周建莹：《高等数学》(下)，北京大学出版社</span>。
-</p>
-
-<div class="MsoNormal" align="center" style="text-align:center">
-<hr size="3" width="100%" align="center">
+  <p style="margin-bottom: 2px;"><b>习题课信息：</b></p>
+  <ul style="list-style-type: none; padding-left: 20px; margin-top: 0;">
+    <li>时间：每周二 18:40 - 20:20</li>
+    <li>教室：4班-三教406；5班-二教416；6班-三教404</li>
+    <li>分班：
+      <ul style="padding-left: 20px; margin-top: 5px;">
+        <li>4班：学号 &le; 2410306201</li>
+        <li>5班：2410306201 &lt; 学号 &le; 2500013328</li>
+        <li>6班：学号 &gt; 2500013328</li>
+      </ul>
+    </li>
+  </ul>
 </div>
 
-
+<p>
+&nbsp;  <span style="font-family:新宋体"> <font color="red"><b>作业提交要求：</b></font>每次习题课上交上周作业或邮件提交电子版作业给对应助教。</span>
+</p> 
 
 <h2>
 <a name="notes"></a>
 &nbsp;<span style="font-family:黑体">课程安排</span>
 </h2>
  
-<p>
-&nbsp;  <span style="font-family:新宋体"> <font color="red"><b>作业提交要求：</b></font>每次习题课上交上周作业。</span>
-</p>  
+ 
 
  <style>
  table,table tr th, table tr td { 
@@ -366,35 +352,10 @@
  
 <h2>
 <a name="ex"></a>
-&nbsp;<span style="font-family:黑体">习题课安排</span>
+&nbsp;<span style="font-family:黑体">六班习题课讲义</span>
 </h2>
 
-<p>&nbsp;  习题课时间：每周二 10-11 节</p>
-
-<!-- 教室安排表 -->
-<table frame="border" rules="all" align="center" border="2px" style="margin-bottom: 20px;">
-<tbody><tr>
-<th> 教学班 </th>
-<th> 教室 </th>
-</tr>
-<tr>
-<td>&nbsp; 4班 &nbsp; </td>
-<td>&nbsp; 三教406 &nbsp; </td>
-</tr>
-<tr>
-<td>&nbsp; 5班 &nbsp; </td>
-<td>&nbsp; 二教416 &nbsp; </td>
-</tr>
-<tr>
-<td>&nbsp; 6班 &nbsp; </td>
-<td>&nbsp; 三教404 &nbsp; </td>
-</tr>
-</tbody></table>
-
-<br>
-
-<!-- 习题课进度表 -->
-<p>&nbsp;  每周习题课进度及上交作业情况：</p>
+<!-- 六班习题课讲义 -->
 <table frame="border" rules="all" align="center" border="2px">
 <tbody><tr>
 <th> 序号 </th>
@@ -407,7 +368,7 @@
 <td>&nbsp; 1 &nbsp;   </td>
 <td> &nbsp; 第一周 &nbsp; </td>
 <td> &nbsp; 03/03 &nbsp; </td>
-<td> &nbsp; 无内容  &nbsp; </td>
+<td> &nbsp; 无  &nbsp; </td>
 </tr>
 <tr>
 <td>&nbsp; 2 &nbsp;   </td>
@@ -419,43 +380,43 @@
 <td>&nbsp; 3 &nbsp;   </td>
 <td> &nbsp; 第三周 &nbsp; </td>
 <td> &nbsp; 03/17 &nbsp; </td>
-<td> &nbsp; 讲解上周作业及答疑  &nbsp; </td>
+<td> &nbsp;   &nbsp; </td>
 </tr>
 <tr>
 <td>&nbsp; 4 &nbsp;   </td>
 <td> &nbsp; 第四周 &nbsp; </td>
 <td> &nbsp; 03/24 &nbsp; </td>
-<td> &nbsp; 讲解上周作业及答疑  &nbsp; </td>
+<td> &nbsp;   &nbsp; </td>
 </tr>
 <tr>
 <td>&nbsp; 5 &nbsp;   </td>
 <td> &nbsp; 第五周 &nbsp; </td>
 <td> &nbsp; 03/31 &nbsp; </td>
-<td> &nbsp; 讲解上周作业及答疑  &nbsp; </td>
+<td> &nbsp;   &nbsp; </td>
 </tr>
 <tr>
 <td>&nbsp; 6 &nbsp;   </td>
 <td> &nbsp; 第六周 &nbsp; </td>
 <td> &nbsp; 04/07 &nbsp; </td>
-<td> &nbsp; 讲解上周作业及答疑  &nbsp; </td>
+<td> &nbsp;   &nbsp; </td>
 </tr>
 <tr>
 <td>&nbsp; 7 &nbsp;   </td>
 <td> &nbsp; 第七周 &nbsp; </td>
 <td> &nbsp; 04/14 &nbsp; </td>
-<td> &nbsp; 讲解上周作业及答疑  &nbsp; </td>
+<td> &nbsp;   &nbsp; </td>
 </tr>
 <tr>
 <td>&nbsp; 8 &nbsp;   </td>
 <td> &nbsp; 第八周 &nbsp; </td>
 <td> &nbsp; 04/21 &nbsp; </td>
-<td> &nbsp; 讲解上周作业及答疑，期中复习  &nbsp; </td>
+<td> &nbsp;   &nbsp; </td>
 </tr>
 <tr>
 <td>&nbsp; 9 &nbsp;   </td>
 <td> &nbsp; 第九周 &nbsp; </td>
 <td> &nbsp; 04/28 &nbsp; </td>
-<td> &nbsp; 讲解上周作业及答疑，期中试卷讲评  &nbsp; </td>
+<td> &nbsp;   &nbsp; </td>
 </tr>
 <tr>
 <td>&nbsp; - &nbsp;   </td>
@@ -467,31 +428,31 @@
 <td>&nbsp; 10 &nbsp;   </td>
 <td> &nbsp; 第十一周 &nbsp; </td>
 <td> &nbsp; 05/12 &nbsp; </td>
-<td> &nbsp; 讲解上周作业及答疑  &nbsp; </td>
+<td> &nbsp;   &nbsp; </td>
 </tr>
 <tr>
 <td>&nbsp; 11 &nbsp;   </td>
 <td> &nbsp; 第十二周 &nbsp; </td>
 <td> &nbsp; 05/19 &nbsp; </td>
-<td> &nbsp; 讲解上周作业及答疑  &nbsp; </td>
+<td> &nbsp;   &nbsp; </td>
 </tr>
 <tr>
 <td>&nbsp; 12 &nbsp;   </td>
 <td> &nbsp; 第十三周 &nbsp; </td>
 <td> &nbsp; 05/26 &nbsp; </td>
-<td> &nbsp; 讲解上周作业及答疑  &nbsp; </td>
+<td> &nbsp;   &nbsp; </td>
 </tr>
 <tr>
 <td>&nbsp; 13 &nbsp;   </td>
 <td> &nbsp; 第十四周 &nbsp; </td>
 <td> &nbsp; 06/02 &nbsp; </td>
-<td> &nbsp; 讲解上周作业及答疑  &nbsp; </td>
+<td> &nbsp;   &nbsp; </td>
 </tr>
 <tr>
 <td>&nbsp; 14 &nbsp;   </td>
 <td> &nbsp; 第十五周 &nbsp; </td>
 <td> &nbsp; 06/09 &nbsp; </td>
-<td> &nbsp; 讲解上周作业及答疑，期末答疑  &nbsp; </td>
+<td> &nbsp;   &nbsp; </td>
 </tr>
 
  </tbody></table>
