@@ -374,7 +374,7 @@
 <td>&nbsp; 2 &nbsp;   </td>
 <td> &nbsp; 第二周 &nbsp; </td>
 <td> &nbsp; 03/10 &nbsp; </td>
-<td> &nbsp; <a href="main.pdf">二重积分</a> &nbsp; </td>
+<td> &nbsp; <a href="chapters_pdf/ch1.pdf">二重积分</a> &nbsp; </td>
 </tr>
 <tr>
 <td>&nbsp; 3 &nbsp;   </td>
