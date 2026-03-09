@@ -48,10 +48,6 @@
  &nbsp;   <b>03/07</b>  欢迎来到新学期的课程主页。
 </p>
 
-<p>
- &nbsp;    <font color="red">重要</font>：请注意，每次习题课上需交上周作业，电子版作业请发至助教邮箱。
-</p>
-
 
 <div class="MsoNormal" align="center" style="text-align:center">
 <hr size="3" width="100%" align="center">
@@ -83,7 +79,7 @@
 </div>
 
 <p>
-&nbsp;  <span style="font-family:新宋体"> <font color="red"><b>作业提交要求：</b></font>每次习题课上交上周作业或邮件提交电子版作业给对应助教。</span>
+&nbsp;  <span style="font-family:新宋体"> <font color="red"><b>作业提交要求：</b></font>每次习题课上交上周作业或邮件提交电子版作业给对应助教，电子版作业请打包放在一个PDF文件中，不要提交一堆照片。</span>
 </p> 
 
 <h2>
