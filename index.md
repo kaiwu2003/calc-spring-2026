@@ -53,6 +53,11 @@
 <hr size="3" width="100%" align="center">
 </div>
 
+<h2>
+<a name="info"></a>
+&nbsp;<span style="font-family:黑体">课程信息</span>
+</h2>
+
 <div style="font-family:'新宋体',SimSun,serif; line-height: 1.6;">
   <p><b>授课老师：</b> 刘建明。</p>
   <p><b>上课时间：</b> 每周二 08:00 - 09:50、周五 10:10 - 12:00。</p>
