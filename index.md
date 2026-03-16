@@ -45,6 +45,10 @@
 &nbsp;   欢迎大家修读高等数学(下)课程！本网站内容将根据教学进度实时更新。
 
 <p>
+ &nbsp;   <b>03/16</b>  第二次习题课讲义已上传。
+</p>
+
+<p>
  &nbsp;   <b>03/10</b>  第一次习题课讲义已上传。
 </p>
 
@@ -379,13 +383,13 @@
 <td>&nbsp; 2 &nbsp;   </td>
 <td> &nbsp; 第二周 &nbsp; </td>
 <td> &nbsp; 03/10 &nbsp; </td>
-<td> &nbsp; <a href="chapters_pdf/ch1.pdf">二重积分</a> &nbsp; </td>
+<td> &nbsp; <a href="chapters_pdf/lec1.pdf">二重积分</a> &nbsp; </td>
 </tr>
 <tr>
 <td>&nbsp; 3 &nbsp;   </td>
 <td> &nbsp; 第三周 &nbsp; </td>
 <td> &nbsp; 03/17 &nbsp; </td>
-<td> &nbsp;   &nbsp; </td>
+<td> &nbsp; <a href="chapters_pdf/lec2.pdf">三重积分及应用</a> &nbsp; </td>
 </tr>
 <tr>
 <td>&nbsp; 4 &nbsp;   </td>
