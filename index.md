@@ -45,6 +45,10 @@
 &nbsp;   欢迎大家修读高等数学(下)课程！本网站内容将根据教学进度实时更新。
 
 <p>
+ &nbsp;   <b>03/23</b>  第三次习题课讲义已上传。
+</p>
+
+<p>
  &nbsp;   <b>03/16</b>  第二次习题课讲义已上传。
 </p>
 
@@ -395,7 +399,7 @@
 <td>&nbsp; 4 &nbsp;   </td>
 <td> &nbsp; 第四周 &nbsp; </td>
 <td> &nbsp; 03/24 &nbsp; </td>
-<td> &nbsp;   &nbsp; </td>
+<td> &nbsp; <a href="chapters_pdf/lec3.pdf">曲线型积分</a> &nbsp; </td>
 </tr>
 <tr>
 <td>&nbsp; 5 &nbsp;   </td>
