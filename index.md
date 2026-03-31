@@ -45,6 +45,10 @@
 &nbsp;   欢迎大家修读高等数学(下)课程！本网站内容将根据教学进度实时更新。
 
 <p>
+ &nbsp;   <b>03/31</b>  第四次习题课讲义已上传。
+</p>
+
+<p>
  &nbsp;   <b>03/23</b>  第三次习题课讲义已上传。
 </p>
 
@@ -405,7 +409,7 @@
 <td>&nbsp; 5 &nbsp;   </td>
 <td> &nbsp; 第五周 &nbsp; </td>
 <td> &nbsp; 03/31 &nbsp; </td>
-<td> &nbsp;   &nbsp; </td>
+<td> &nbsp; <a href="chapters_pdf/lec4.pdf">格林公式、第一型曲面积分</a> &nbsp; </td>
 </tr>
 <tr>
 <td>&nbsp; 6 &nbsp;   </td>
