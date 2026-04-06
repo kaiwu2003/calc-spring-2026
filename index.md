@@ -45,6 +45,10 @@
 &nbsp;   欢迎大家修读高等数学(下)课程！本网站内容将根据教学进度实时更新。
 
 <p>
+ &nbsp;   <b>04/06</b>  第五次习题课讲义已上传。
+</p>
+
+<p>
  &nbsp;   <b>03/31</b>  第四次习题课讲义已上传。
 </p>
 
@@ -415,7 +419,7 @@
 <td>&nbsp; 6 &nbsp;   </td>
 <td> &nbsp; 第六周 &nbsp; </td>
 <td> &nbsp; 04/07 &nbsp; </td>
-<td> &nbsp;   &nbsp; </td>
+<td> &nbsp; <a href="chapters_pdf/lec5.pdf">第二型曲面积分、Gauss公式与Stokes公式</a> &nbsp; </td>
 </tr>
 <tr>
 <td>&nbsp; 7 &nbsp;   </td>
