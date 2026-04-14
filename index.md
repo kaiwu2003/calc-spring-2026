@@ -45,6 +45,10 @@
 &nbsp;   欢迎大家修读高等数学(下)课程！本网站内容将根据教学进度实时更新。
 
 <p>
+ &nbsp;   <b>04/14</b>  第六次习题课讲义已上传。
+</p>
+
+<p>
  &nbsp;   <b>04/06</b>  第五次习题课讲义已上传。
 </p>
 
@@ -425,7 +429,7 @@
 <td>&nbsp; 7 &nbsp;   </td>
 <td> &nbsp; 第七周 &nbsp; </td>
 <td> &nbsp; 04/14 &nbsp; </td>
-<td> &nbsp;   &nbsp; </td>
+<td> &nbsp; <a href="chapters_pdf/lec6.pdf">场论初步、ODE基本概念与初等积分法</a> &nbsp; </td>
 </tr>
 <tr>
 <td>&nbsp; 8 &nbsp;   </td>
