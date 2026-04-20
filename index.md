@@ -45,6 +45,14 @@
 &nbsp;   欢迎大家修读高等数学(下)课程！本网站内容将根据教学进度实时更新。
 
 <p>
+ &nbsp;   <b>04/14</b>  第七次习题课讲义已上传。
+</p>
+
+<p>
+ &nbsp;   <b>04/14</b>  更新期中时间地点。
+</p>
+
+<p>
  &nbsp;   <b>04/14</b>  第六次习题课讲义已上传。
 </p>
 
@@ -259,18 +267,18 @@
 </tr> 
 
 <tr>
-<td>&nbsp; - &nbsp;   </td>
-<td>&nbsp; 04/?? &nbsp; </td>
-<td> &nbsp; <font color="red">期中考试</font> 08:00-10:00  &nbsp;</td>
-<td> &nbsp; 考试地点另行通知  &nbsp;   </td>
-</tr>
-
-<tr>
 <td>&nbsp; 16 &nbsp;   </td>
 <td>&nbsp; 04/24 &nbsp; </td>
 <td> &nbsp; 第十章§1. 柯西收敛原理与数项级数的概念  &nbsp;</td>
 <td> &nbsp;  习题10.1. 1(2), 2, 3(1)(4)(6), 5. &nbsp;   </td>
 </tr> 
+
+<tr>
+<td>&nbsp; - &nbsp;   </td>
+<td>&nbsp; 04/26 &nbsp; </td>
+<td> &nbsp; <font color="red">期中考试</font> 08:00-10:00  &nbsp;</td>
+<td> &nbsp; 考试地点：理教102：学号 &le; 2500011812 、理教103： 学号>2500011812 &nbsp;   </td>
+</tr>
 
 <tr>
 <td rowspan="1">&nbsp; 九 &nbsp;   </td>
@@ -435,7 +443,7 @@
 <td>&nbsp; 8 &nbsp;   </td>
 <td> &nbsp; 第八周 &nbsp; </td>
 <td> &nbsp; 04/21 &nbsp; </td>
-<td> &nbsp;   &nbsp; </td>
+<td> &nbsp; <a href="chapters_pdf/lec7.pdf">微分方程、期中复习</a> &nbsp; </td>
 </tr>
 <tr>
 <td>&nbsp; 9 &nbsp;   </td>
