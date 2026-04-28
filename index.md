@@ -449,7 +449,7 @@
 <td>&nbsp; 9 &nbsp;   </td>
 <td> &nbsp; 第九周 &nbsp; </td>
 <td> &nbsp; 04/28 &nbsp; </td>
-<td> &nbsp;   &nbsp; </td>
+<td> &nbsp; <a href="chapters_pdf/lec8.pdf">级数概念与柯西收敛准则</a> &nbsp; </td>
 </tr>
 <tr>
 <td>&nbsp; - &nbsp;   </td>
