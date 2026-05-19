@@ -44,6 +44,11 @@
 </h2>
 &nbsp;   欢迎大家修读高等数学(下)课程！本网站内容将根据教学进度实时更新。
 
+
+<p>
+ &nbsp;   <b>05/19</b>  第十次习题课讲义已上传。
+</p>
+
 <p>
  &nbsp;   <b>05/12</b>  第九次习题课讲义已上传。
 </p>
@@ -475,7 +480,7 @@
 <td>&nbsp; 11 &nbsp;   </td>
 <td> &nbsp; 第十二周 &nbsp; </td>
 <td> &nbsp; 05/19 &nbsp; </td>
-<td> &nbsp;   &nbsp; </td>
+<td> &nbsp; <a href="chapters_pdf/lec10.pdf">任意项级数与函数项级数</a> &nbsp; </td>
 </tr>
 <tr>
 <td>&nbsp; 12 &nbsp;   </td>
