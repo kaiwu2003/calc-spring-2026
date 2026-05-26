@@ -44,6 +44,9 @@
 </h2>
 &nbsp;   欢迎大家修读高等数学(下)课程！本网站内容将根据教学进度实时更新。
 
+<p>
+ &nbsp;   <b>05/19</b>  第十一次习题课讲义已上传。
+</p>
 
 <p>
  &nbsp;   <b>05/19</b>  第十次习题课讲义已上传。
@@ -486,7 +489,7 @@
 <td>&nbsp; 12 &nbsp;   </td>
 <td> &nbsp; 第十三周 &nbsp; </td>
 <td> &nbsp; 05/26 &nbsp; </td>
-<td> &nbsp;   &nbsp; </td>
+<td> &nbsp; <a href="chapters_pdf/lec11.pdf">幂级数与Taylor级数</a> &nbsp; </td>
 </tr>
 <tr>
 <td>&nbsp; 13 &nbsp;   </td>
