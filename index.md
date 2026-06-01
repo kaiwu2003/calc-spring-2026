@@ -45,7 +45,11 @@
 &nbsp;   欢迎大家修读高等数学(下)课程！本网站内容将根据教学进度实时更新。
 
 <p>
- &nbsp;   <b>05/19</b>  第十一次习题课讲义已上传。
+ &nbsp;   <b>06/01</b>  第十二次习题课讲义已上传。
+</p>
+
+<p>
+ &nbsp;   <b>05/26</b>  第十一次习题课讲义已上传。
 </p>
 
 <p>
@@ -495,7 +499,7 @@
 <td>&nbsp; 13 &nbsp;   </td>
 <td> &nbsp; 第十四周 &nbsp; </td>
 <td> &nbsp; 06/02 &nbsp; </td>
-<td> &nbsp;   &nbsp; </td>
+<td> &nbsp; <a href="chapters_pdf/lec12.pdf">广义积分与正常含参变量积分</a> &nbsp; </td>
 </tr>
 <tr>
 <td>&nbsp; 14 &nbsp;   </td>
