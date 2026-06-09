@@ -512,7 +512,7 @@
 <td> &nbsp; <a href="chapters_pdf/lec13.pdf">含参变量广义积分、Fourier级数、期末复习</a> &nbsp; </td>
 </tr>
 <tr>
- <td> &nbsp; <a href="chapters_pdf/main.pdf">习题课讲义</a> &nbsp; </td>
+ <td> &nbsp; <a href="main.pdf">习题课讲义</a> &nbsp; </td>
 </tr>
  </tbody></table>
  
