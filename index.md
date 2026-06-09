@@ -45,6 +45,10 @@
 &nbsp;   欢迎大家修读高等数学(下)课程！本网站内容将根据教学进度实时更新。
 
 <p>
+ &nbsp;   <b>06/09</b>  第十三次习题课讲义已上传。
+</p>
+
+<p>
  &nbsp;   <b>06/01</b>  第十二次习题课讲义已上传。
 </p>
 
@@ -505,7 +509,7 @@
 <td>&nbsp; 14 &nbsp;   </td>
 <td> &nbsp; 第十五周 &nbsp; </td>
 <td> &nbsp; 06/09 &nbsp; </td>
-<td> &nbsp;   &nbsp; </td>
+<td> &nbsp; <a href="chapters_pdf/lec13.pdf">含参变量广义积分、Fourier级数、期末复习</a> &nbsp; </td>
 </tr>
 
  </tbody></table>
